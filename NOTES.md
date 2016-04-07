@@ -61,4 +61,8 @@ Validate that items have a description.
 
 # Step 6: Deleting Items from a list
 
+# Step 7: User Signup and Login
+
+# Step 8: Users have lists and can only see their lists.*
+
 # Step Whatever: Fix Down Arrow on Make a List Form
